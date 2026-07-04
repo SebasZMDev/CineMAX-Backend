@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="getName()"/>
+			<item value="get"/>
+			<item value="getName"/>
+			<item value="AuditorAware"/>
+			<item value="UsuarioId"/>
+			<item value="extractUserId"/>
+			<item value="do"/>
+			<item value="userId"/>
+			<item value="extractUser"/>
+			<item value="extract"/>
+			<item value="usuarioID"/>
+			<item value="USUARI"/>
+			<item value="uSERdETA"/>
+			<item value="expiration"/>
+			<item value="com.cinema"/>
+		</list>
+	</section>
+</section>

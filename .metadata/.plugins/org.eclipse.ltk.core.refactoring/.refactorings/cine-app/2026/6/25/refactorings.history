@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;UsuarioResponse.java&apos; to &apos;cine-app/src/main/java/com.cine.app.dto.response&apos;&#x0D;&#x0A;- Original project: &apos;cine-app&apos;&#x0D;&#x0A;- Destination element: &apos;cine-app/src/main/java/com.cine.app.dto.response&apos;&#x0D;&#x0A;- Original element: &apos;com.cine.app.dto.request.UsuarioResponse.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cine.app.dto.response" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cine.app.dto.request{UsuarioResponse.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1781713515798" units="1" version="1.0"/>
+</session>

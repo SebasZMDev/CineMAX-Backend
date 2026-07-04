@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.example.demo.security.JwtUtils"/>
+    <fullyQualifiedTypeName name="com.example.demo.AuthServiceApplication"/>
+    <fullyQualifiedTypeName name="com.example.demo.service.AuthService"/>
+    <fullyQualifiedTypeName name="com.example.demo.entity.Pelicula"/>
+    <fullyQualifiedTypeName name="com.example.demo.dto.response.PeliculaResponse"/>
+</qualifiedTypeNameHistroy>
