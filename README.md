@@ -1,5 +1,13 @@
 # CineMAX Backend
 
+[![Backend CI](https://github.com/SebasZMDev/CineMAX-Backend/actions/workflows/ci.yml/badge.svg)](https://github.com/SebasZMDev/CineMAX-Backend/actions/workflows/ci.yml)
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Message%20Broker-FF6600)
+
+Backend for CineMAX, a cinema ticket reservation and management platform built using a microservices architecture with Spring Boot.
+
 Backend for CineMAX, a cinema ticket reservation and management platform built using a microservices architecture with Spring Boot.
 
 ## Overview
